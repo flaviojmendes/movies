@@ -1,4 +1,4 @@
-## Informações
+# Browser Wars
 
 "Browser Wars" - ou "Guerra dos Navegadores" - é o primeiro episódio da série "Download: The True Story of the Internet" - ou, traduzido para "A Verdadeira História da Internet" - produzido pela Discovery Channel.
 

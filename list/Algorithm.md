@@ -1,3 +1,5 @@
+# Algorithm
+
 Algorithm (ou "Algoritmo") é um filme de 2014 que tem o tema *hacking* muito envolvido. A história é bacana. A filmagem. Trilha sonora. Todos esses aspectos são bem feitos, julgados por mim. Mas claro, vamos analisar a abordagem técnica que nele é feita. De todos os filmes que já vi sobre o tema, é o que mais gostei. A realidade nele também é bastante presente. Claro, aspectos *hollywoodianos* tem, mas por trás disso há verdades.
 
 Nele tem passagens da [ideologia \[0\]][0] e [ética hacker \[1\]][1] [\[2\]][2] bem marcantes. As opiniões ditas também são bastante comum em pessoas desse meio:

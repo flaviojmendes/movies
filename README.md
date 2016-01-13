@@ -2,7 +2,7 @@
 
 #### Movies List
 
-  * [Hacking](list/Hacking.md)
+  * [Algorithm](list/Algorithm.md)
   * [The code Linux](list/TheCodeLinux.md)
   * [Who am I](list/WhoAmI.md)
   * [People Power](list/PeoplePower.md)
@@ -12,3 +12,4 @@
 
 #### Series
   * [Halt and Catch Fire](list/HaltAndCatchFire.md)
+  * [Underground](list/Underground.md)

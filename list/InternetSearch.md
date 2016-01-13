@@ -1,4 +1,4 @@
-## Informações
+# Internet Search
 
 "Internet Search" - ou "A Pesquisa" - é o segundo episódio da série "Download: The True Story of the Internet" - ou, traduzido para "A Verdadeira História da Internet" - produzido pela Discovery Channel.
 

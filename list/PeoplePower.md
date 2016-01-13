@@ -1,4 +1,4 @@
-## Informações
+# People Power
 
 "People Power" - ou "O Poder das Pessoas" - é o quarto episódio da série "Download: The True Story of the Internet" - ou, traduzido para "A Verdadeira História da Internet" - produzido pela Discovery Channel.
 
