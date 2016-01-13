@@ -9,4 +9,9 @@ After Andy Baio uploaded the documentary to his personal website for the release
 
 Assistir [aqui].
 
+Links:
+```
+[aqui] - https://www.youtube.com/watch?v=u404SLJj7ig 
+```
+
 [aqui]: https://www.youtube.com/watch?v=u404SLJj7ig
