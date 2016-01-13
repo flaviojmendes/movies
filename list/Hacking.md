@@ -86,6 +86,7 @@ Caso tenha interesse de assistir a esse filme, não precisa se preocupar em proc
 [6]: http://www.binarywolf.com/249/pringles_cantenna.htm
 
 ```
+Fonte: http://gjuniioor.github.io/
 
 [0]: http://www.phrack.org/issues/7/3.html#article
 [1]: https://en.wikipedia.org/wiki/Hacker_ethic

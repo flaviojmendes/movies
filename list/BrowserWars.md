@@ -60,6 +60,8 @@ Portanto, é isso! Veremos mais reviews como esses mais para frente. Se curtiu, 
 [7] - http://www.garyreback.com/garyreback.html
 ```
 
+Fonte: http://gjuniioor.github.io/
+
 [\[0\]]: https://www.youtube.com/watch?v=qQwCx-Ey6x8
 [\[1\]]: https://www.youtube.com/watch?v=1G3SUTmioQE
 [\[2\]]: https://www.youtube.com/watch?v=AjItKPhbWNM

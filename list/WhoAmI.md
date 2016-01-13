@@ -10,8 +10,6 @@ O filme, logo me pareceu como o O Clube da Luta, e realmente funcionou! O moment
 
 Tecnicamente falando, já que envolve *hacking*, não há muito o que elogiar. Assim como (<del>todas</del>) outras obras é maquiado a esse respeito. (sobre essa questão de realismo, estou em vista de trazer duas obras que sim, beiram muito a realidade, aguardem). Mas ainda assim tem um tom de realismo nas coisas. Chega até a aparecer um *nmap* rodando com *NSE* (aparentemente feito pelo Benjamin [\[3\]][3].
 
-![Screenshot terminal com nmap]({{ site.baseurl }}images/posts/2015/05.jpg "Screenshot - terminal com NMAP")
-
 Tem algo de interessante que me identifiquei no filme: **mágica**. Aparentemente, quando criança, o protagonista gostava de fazer alguns truques de mágica. Assim como eu (<del>fiz até um puta show uma certa vez</del>).
 
 É bom até não falar tanto do filme, senão pode rolar *spoiler*, o que não é legal. Mas realmente, fica ai a forte recomendação para que assista. É muito divertido! E claro, para aqueles que como eu, gostam de tirar uma lição em tudo, **é uma ótima fonte disso e de inspiração!**
@@ -30,3 +28,5 @@ No mais, pegando a base da história, como abordam a engenharia social, a audác
 [1]: http://www.imdb.com/title/tt3042408/
 [2]: https://en.wikipedia.org/wiki/Who_Am_I_%E2%80%93_No_System_Is_Safe
 [3]: https://nmap.org/movies/
+
+Fonte: http://gjuniioor.github.io/

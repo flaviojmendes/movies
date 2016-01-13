@@ -22,6 +22,8 @@ Algo interessante de se notar é quem a **Amazon** e **eBay** (empresas em que o
 
 Em minha sincera opinião: é um documentário ótimo! Principalmente para as pessoas que são mais ligadas à negócios (gerentes, por exemplo) e não tanto à área técnica. Mas claro, não perde-se o valor informacional para as pessoas que querem ver mais códigos e bits.
 
+
+
 ## Links
 
 ```
@@ -30,3 +32,5 @@ Em minha sincera opinião: é um documentário ótimo! Principalmente para as pe
 ```
 [\[1\]]: https://www.youtube.com/watch?v=aQjnkyoNIfg
 [\[2\]]: https://www.youtube.com/watch?v=rG1P-Lq3_-Q
+
+Fonte: http://gjuniioor.github.io/
