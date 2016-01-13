@@ -4,9 +4,9 @@
 
 Está disponível no Youtube, e pode ser já acessado clicando nos links a seguir:
 
-* Inglês - [0]
-* Legendado - [1]
-* Dublado - [2]
+* Inglês - [\[0\]]
+* Legendado - [\[1\]]
+* Dublado - [\[2\]]
 
 ## Resumo
 
@@ -18,11 +18,11 @@ Dá para notar a "humildade" de B. Gates em certas partes da narrativa e como a 
 
 O modo irreverente de trabalho de uma empresa de tecnologia é contagiante desde aquela época, mostrando que pouco importava a idade, se tinha concluído um curso de nível superior, mas sim o expertise em relação à computação.
 
-Um certo sorriso de canto de boca apareceu em meu rosto no momento em que o Thomas Reardon [4] mostra como ficou "boquiaberto" com o fato de o pessoal da Netscape não o venerarem, como era comum, já que se tratava de alguém da grande Micorosft, a poderosa da indústria, a "moda foca"... Nesse ponto, palmas, Netscape-men!! haha
+Um certo sorriso de canto de boca apareceu em meu rosto no momento em que o Thomas Reardon [\[4\]] mostra como ficou "boquiaberto" com o fato de o pessoal da Netscape não o venerarem, como era comum, já que se tratava de alguém da grande Micorosft, a poderosa da indústria, a "moda foca"... Nesse ponto, palmas, Netscape-men!! haha
 
-Após o lançamento do então "Netscape Navigator" [5] e o fato de haver um milhão de downloads naquela época tornava a luta entre Netscape e Microsoft algo além da supremacia na web. Como é sabido, o "sistema base" de um computador é o sistema operacional, e nisso a Microsoft tinha o controle inquestionáve do monopólio. Com o surgimento do Netscape e a vinda das pessoas para a "nova web", essa ideia de que o que importava era o sistema operacional começou a cair por terra.
+Após o lançamento do então "Netscape Navigator" [\[5\]] e o fato de haver um milhão de downloads naquela época tornava a luta entre Netscape e Microsoft algo além da supremacia na web. Como é sabido, o "sistema base" de um computador é o sistema operacional, e nisso a Microsoft tinha o controle inquestionáve do monopólio. Com o surgimento do Netscape e a vinda das pessoas para a "nova web", essa ideia de que o que importava era o sistema operacional começou a cair por terra.
 
-Dai começa a treta em si! [6] O então advogado da Netscape, Gary Reback [7], mostra que a Microsoft jogava sujo, com ameaças, incêndio em fábricas... Bastante ético, sempre!
+Dai começa a treta em si! [\[6\]] O então advogado da Netscape, Gary Reback [\[7\]], mostra que a Microsoft jogava sujo, com ameaças, incêndio em fábricas... Bastante ético, sempre!
 
 "Compraremos sua empresa por um milhão de dólares. É pegar ou largar. Mas se largarem, vamos copiar tudo que fizerem", segundo Lou Montulli, foi o que representantes da Microsoft disseram. Cópia? Nunca soube que a Microsoft fazia isso! hahaha
 
@@ -59,3 +59,12 @@ Portanto, é isso! Veremos mais reviews como esses mais para frente. Se curtiu, 
 [6] - http://www.justice.gov/sites/default/files/atr/legacy/2006/03/03/20.pdf
 [7] - http://www.garyreback.com/garyreback.html
 ```
+
+[\[0\]]: https://www.youtube.com/watch?v=qQwCx-Ey6x8
+[\[1\]]: https://www.youtube.com/watch?v=1G3SUTmioQE
+[\[2\]]: https://www.youtube.com/watch?v=AjItKPhbWNM
+[\[3\]]: https://pt.wikipedia.org/wiki/Marc_Andreessen
+[\[4\]]: https://en.wikipedia.org/wiki/Thomas_Reardon
+[\[5\]]: https://pt.wikipedia.org/wiki/Netscape_Navigator
+[\[6\]]: http://www.justice.gov/sites/default/files/atr/legacy/2006/03/03/20.pdf
+[\[7\]]: http://www.garyreback.com/garyreback.html

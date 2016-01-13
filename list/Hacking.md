@@ -70,8 +70,6 @@ Além dessas dicas ditas há assuntos técnicos que são abordados e explicados 
 
 E por fim, um ponto que acredito ser interessante de se tratar é o intuito das atividades de certos orgãos. Em um determinado momento, um agente recém chegado à agência de investigação mostra todo seu fôlego pelos casos, afinal, para ele se tratava de combater o terrorismo. Em contrapartida, um agente mais experiênte deu a entender que ele havia muito o que aprender ainda. Provavelmente a intenção de todo esse rastreamento está incluso nisso.
 
-> E isso foi algo que até abordei em um outro post aqui do blog: [The Snowden Files \[7\]][7]. Que é falando minha opinião sobre um livro que em resumo: é muito bom!
-
 Caso tenha interesse de assistir a esse filme, não precisa se preocupar em procurar muito. Ele está no Youtube e portanto, pode assistir daqui mesmo:
 
 <iframe src="https://www.youtube.com/embed/6qpudAhYhpc" frameborder="0" allowfullscreen></iframe>
@@ -86,7 +84,7 @@ Caso tenha interesse de assistir a esse filme, não precisa se preocupar em proc
 [4]: https://wiki.hackerspaces.org/San_Francisco
 [5]: https://www.ted.com/talks/james_veitch_this_is_what_happens_when_you_reply_to_spam_email
 [6]: http://www.binarywolf.com/249/pringles_cantenna.htm
-[7]: {{ site.url }}{{ site.baseurl }}books/the-snowden-files/
+
 ```
 
 [0]: http://www.phrack.org/issues/7/3.html#article
@@ -96,4 +94,3 @@ Caso tenha interesse de assistir a esse filme, não precisa se preocupar em proc
 [4]: https://wiki.hackerspaces.org/San_Francisco
 [5]: https://www.ted.com/talks/james_veitch_this_is_what_happens_when_you_reply_to_spam_email
 [6]: http://www.binarywolf.com/249/pringles_cantenna.htm
-[7]: {{ site.url }}{{ site.baseurl }}books/the-snowden-files/

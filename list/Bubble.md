@@ -6,8 +6,8 @@
 
 Está disponível no *Youtube*, e pode ser já acessado clicando nos links a seguir:
 
-* Inglês - [1]
-* Dublado - [2]
+* Inglês - [\[1\]]
+* Dublado - [\[2\]]
 * Legendado (deu preguiça para procurar melhor, se quiser contribuir, pode mandar o link que ponho aqui)
 
 ## Vamos lá
@@ -28,3 +28,5 @@ Em minha sincera opinião: é um documentário ótimo! Principalmente para as pe
 [1] - https://www.youtube.com/watch?v=aQjnkyoNIfg
 [2] - https://www.youtube.com/watch?v=rG1P-Lq3_-Q
 ```
+[\[1\]]: https://www.youtube.com/watch?v=aQjnkyoNIfg
+[\[2\]]: https://www.youtube.com/watch?v=rG1P-Lq3_-Q
