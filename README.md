@@ -22,10 +22,9 @@
   * [The code Linux](list/TheCodeLinux.md)
   * [The Triumph of Nerds](list/TriumphNerds.md)
 
-### Games
-
- * Atari: Game Over
- * The King of Kong
+#### Games
+  * Atari: Game Over
+  * The King of Kong
 
 #### Series
   * [Halt and Catch Fire](list/HaltAndCatchFire.md)
