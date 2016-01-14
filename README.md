@@ -7,6 +7,7 @@
   * [Rede Social, A](list/RedeSocial.md)
   * [Underground](list/Underground.md)
   * [Who am I](list/WhoAmI.md)
+  * Hackers
 
 #### Documentários
   * [Browser Wars](list/BrowserWars.md)
@@ -21,6 +22,11 @@
   * [The code Linux](list/TheCodeLinux.md)
   * [The Triumph of Nerds](list/TriumphNerds.md)
 
+### Games
+
+ * [Atari: Game Over]
+ * [The King of Kong]
 
 #### Series
   * [Halt and Catch Fire](list/HaltAndCatchFire.md)
+  * Mr. Robot
