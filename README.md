@@ -24,8 +24,8 @@
 
 ### Games
 
- * [Atari: Game Over]
- * [The King of Kong]
+ * Atari: Game Over
+ * The King of Kong
 
 #### Series
   * [Halt and Catch Fire](list/HaltAndCatchFire.md)
