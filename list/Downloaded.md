@@ -7,6 +7,7 @@ to its acquisition by Rhapsody in 2011. Some of those interviewed include Henry 
  producer and Island Records founder Chris Blackwell, former Sony Music Chairman Don Ienner, former CEO of the RIAA Hilary Rosen,
   Beastie Boys’ Mike D, Nine Inch Nails frontman Trent Reznor and Noel Gallagher.
 
+Assistir [aqui].
 
 Links:
 ```
