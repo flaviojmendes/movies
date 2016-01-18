@@ -28,8 +28,6 @@ Que é um dos princípios do que é dito como **ética hacker**. São eles:
 
 Há momentos em que parece se passar em algum [hackerspace \[3\]][3] (ou makerspace):
 
-![Cena em um possível hacker/maker space"]({{ site.baseurl }}images/posts/2016/01.jpg)
-
 O que por se torna bem possível, já que se passa em San Francisco, lugar onde [há vários \[4\]][4] desses ambientes.
 
 Outro ponto bastante importante são as dicas reais que são dadas. Como por exemplo, de onde fazer certos testes:

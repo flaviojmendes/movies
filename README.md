@@ -23,8 +23,8 @@
   * [The Triumph of Nerds](list/TriumphNerds.md)
 
 #### Games
-  * Atari: Game Over
-  * The King of Kong
+  * [Atari: Game Over](list/AtariGameOver.md)
+  * [The King of Kong](list/KingOfKong.md)
 
 #### Series
   * [Halt and Catch Fire](list/HaltAndCatchFire.md)
